@@ -33,9 +33,9 @@ print(f"{'<' * 5}Email generation in progress{'>'*5}")
 
 SERVER = 'smtp.gmail.com'
 PORT = 587
-FROM = 'foundmenobody@gmail.com'
-TO = 'sainath.ss97@gmail.com'
-PASS = '05051997sai'
+FROM = '**********************.com'
+TO = '************************.com'
+PASS = '***************'
 
 msg =MIMEMultipart()
 
